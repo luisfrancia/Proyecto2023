@@ -1,3 +1,4 @@
+
 # ¿Qué es una Pull Request?
 
 Una **Pull Request (PR)** es una solicitud para fusionar cambios de una branch a otra. 
@@ -10,3 +11,7 @@ Una **Pull Request (PR)** es una solicitud para fusionar cambios de una branch a
 ## Desventajas:
 - Proceso más lento
 - Requiere aprobación
+
+# GitLab (desde MAIN)
+
+GitLab ofrece repositorios Git con CI/CD integrado.
